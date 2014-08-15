@@ -1,3 +1,10 @@
 {
-    "port" : 8888
+    "port": 8888,
+    "pool": {
+        "host": "10.11.32.148",
+        "user": "ailife",
+        "password": "ailife",
+        "database": "cf",
+        "port": 3306
+    }
 }
